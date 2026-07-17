@@ -9,5 +9,5 @@ alt: image-alt
 project-url: https://docs.google.com/document/d/1GTV-PfNVwvyBzI7f2WVS8KYZ7sJHqoy6S047jlMHN_8/edit?tab=t.0
 
 # Once you've completed your project, update the 'description' below to this one: Completed 17 TryHackMe rooms, gaining hands-on skills in Linux and Windows fundamentals, log analysis, network troubleshooting with Wireshark, and incident handling with Splunk.
-description: COMING SOON
+description: 
 ---
