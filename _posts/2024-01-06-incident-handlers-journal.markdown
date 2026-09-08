@@ -6,8 +6,8 @@ img: handlersjournal.png
 alt: image-alt
 
 # Add the link to your journal below
-project-url:
+project-url:https://docs.google.com/document/d/1Kgo95U43V2JPR4JDlHVK19tEKqpIa1axfV3neP2L7hs/edit?usp=sharing
 
 # Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
-description: COMING SOON
+description: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
 ---
